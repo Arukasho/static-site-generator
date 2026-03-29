@@ -1,0 +1,11 @@
+[33mcommit 6c431407ce629bcea2d0acd929438a168ea9765a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Arukasho <alwijeremy@gmail.com>
+Date:   Sat Mar 28 10:52:08 2026 +0700
+
+    added html node
+
+[33mcommit 7251165b57e0f07139efa1ae7eca2c99dda84c13[m
+Author: Arukasho <alwijeremy@gmail.com>
+Date:   Sun Mar 22 16:53:52 2026 +0700
+
+    add .gitignore
