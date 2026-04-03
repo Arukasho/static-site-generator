@@ -15,6 +15,7 @@ class TextNode():
         return f"TextNode({self.text}, {self.text_type}, {self.url})"
 
 class TextType(Enum):
+    TEXT = "text"
     BOLD = "**Bold text**"
     ITALIC = "_Italic text_"
     CODE = "`Code text`"
